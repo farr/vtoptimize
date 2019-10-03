@@ -1,0 +1,10 @@
+*.bst
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+vtoptimize.pdf
+*.synctex.gz
