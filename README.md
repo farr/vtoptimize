@@ -3,6 +3,8 @@
 A brief note on how to tune downtime / duty cycles to optimize GW detection
 rates.
 
+Read the latest PDF: [![Latest PDF](https://img.shields.io/badge/PDF-latest-orange.svg?style=flat)](https://github.com/farr/vtoptimize/blob/master-pdf/vtoptimize.pdf)
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
